@@ -6,6 +6,5 @@
  - CSS3 
  - JS
  
- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelmorassuti&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
  
- Link para acesso: https://miguelmorassuti.github.io/Projeto-Ecomerce--Trab.-Final-Eng.-Soft-/Projeto/
+ [Clique aqui para acessa-lo](https://miguelmorassuti.github.io/Projeto-Ecomerce--Trab.-Final-Eng.-Soft-/Projeto/)
