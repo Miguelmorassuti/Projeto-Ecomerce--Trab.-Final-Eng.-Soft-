@@ -3,7 +3,7 @@
  
  Projeto foi construindo utilizando
  ***
- -[]HTML5
+ -[x]HTML5
  -[]CSS3 
  -[]JS
  
